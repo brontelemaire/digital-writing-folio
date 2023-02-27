@@ -30,3 +30,7 @@
 - Walk around to understad the space physically in a piece of work
 - Write with headphones on with no sound or with curated and specific playlists made for the work
 - Usually write at night when there's less noise
+- Put deleted sections into other docs to use/look at later
+- Use sites like picrew to create character's visuals
+- Use textboxes to move text around
+- Use text alignment for different effects on the form
