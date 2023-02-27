@@ -18,14 +18,12 @@
 
 ### What tools (or techniques) do you use to write?
 
-- Word documents
-- Google documents
-- Apple notes app
-- Using a document to jump around to different sections, copying and pasting them into different orders, developing one idea more
-- Usually write in bed
+- Word documents, Google documents, Apple notes app
 - Do planning/gathering of ideas in notes app
 - Write out prose in word doc
 - Copy into Google doc in order for other people to see and edit and look at it with more fresh eyes
+- Using a document to jump around to different sections, copying and pasting them into different orders, developing one idea more
+- Usually write in bed
 - Speak outloud to see how things sound, occassionally record
 - Walk around to understad the space physically in a piece of work
 - Write with headphones on with no sound or with curated and specific playlists made for the work
