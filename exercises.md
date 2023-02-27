@@ -33,4 +33,4 @@
 - Use sites like picrew to create character's visuals
 - Use textboxes to move text around
 - Use text alignment for different effects on the form
-- Hop between multiple prjects at the same time, when I get stuck on one I just switch to the other
+- Hop between multiple projects at the same time, when I get stuck on one I just switch to the other
