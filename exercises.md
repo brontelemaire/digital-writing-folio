@@ -34,3 +34,4 @@
 - Use textboxes to move text around
 - Use text alignment for different effects on the form
 - Hop between multiple projects at the same time, when I get stuck on one I just switch to the other
+- Printing off work to manually edit with coloured pens
