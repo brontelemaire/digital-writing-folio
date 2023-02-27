@@ -51,8 +51,8 @@ Constrain:
 - Get distracted easily by phone or other things open/on my laptop
 
 Facilitate:
-- let me organise more thoroughly and know where everything is (I notoriously lose things)
-- easier to do workshopping with other people (Google doc's commenting system)
+- Let me organise more thoroughly and know where everything is (I notoriously lose things)
+- Easier to do workshopping with other people (Google doc's commenting system)
 - Having ideas in notes means I can look at them whenever I want as long as I have my phone, and so can do it more discreetly and speedily
 - I can write in the dark
 - Can use autocorrect to help with my spelling and missing words I might have otherwise missed
