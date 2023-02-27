@@ -7,6 +7,7 @@
 - [ ] Add a repositry for the folio
 - [ ] What types of writing do you do (ie fiction, nonfiction, poetry, other)?
 - [ ] What tools (or techniques) do you use to write?
+- [ ] Why do you use these tools (or technique)?
 - [ ] How do these tools shape the way you write (e.g., constrain that way you write or facilitate your writing)?
 
 ### What types of writing do you do (ie fiction, nonfiction, poetry, other)?
@@ -35,3 +36,25 @@
 - Use text alignment for different effects on the form
 - Hop between multiple projects at the same time, when I get stuck on one I just switch to the other
 - Printing off work to manually edit with coloured pens
+- Using google tab groups to collate research
+
+###  Why do you use these tools (or technique)?
+- Habit
+- Familiarity with tools
+- Able to write fast enough
+
+### How do these tools shape the way you write (e.g., constrain that way you write or facilitate your writing)?
+
+Constrain:
+- Stuck on the A4 visualisation, doesn't show you how it would actually look in print, also makes it seem as though you've done less than you have
+- Can't play as easily with form of things like poetry as I can on paper cause I can sketch visuals out
+- Get distracted easily by phone or other things open/on my laptop
+
+Facilitate:
+- let me organise more thoroughly and know where everything is (I notoriously lose things)
+- easier to do workshopping with other people (Google doc's commenting system)
+- Having ideas in notes means I can look at them whenever I want as long as I have my phone, and so can do it more discreetly and speedily
+- I can write in the dark
+- Can use autocorrect to help with my spelling and missing words I might have otherwise missed
+- Can keep myself in the zone with music
+- Can multitask, have multiple things next to each other on my screen or on my phone to use as reference
