@@ -1,6 +1,6 @@
 # Exercises
 
-## Week 1
+## Week 1:
 
 - [ ] Create a Github account
 - [ ] Do the Github 'Hello World'
@@ -58,3 +58,9 @@ Facilitate:
 - Can use autocorrect to help with my spelling and missing words I might have otherwise missed
 - Can keep myself in the zone with music
 - Can multitask, have multiple things next to each other on my screen or on my phone to use as reference
+
+
+
+## Week 2:
+
+### What elements 
