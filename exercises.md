@@ -64,3 +64,20 @@ Facilitate:
 ## Week 2:
 
 ### What elements 
+- What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
+- How are those elements meaningful?
+- How are the works read differently from print literature?
+- How is electronic literature different from print literature?
+- What are the qualities of the works we might consider as qualities of electronic literature?
+
+## Remixes
+
+### Dadaist Poem
+
+### N+7
+
+### Tarako Gorge Remix
+
+- What aspects of the remix are the same?
+- What aspects of the remix are different?
+- Is the remix successful (why or why not)?
