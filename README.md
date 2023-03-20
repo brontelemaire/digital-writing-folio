@@ -2,3 +2,4 @@
 
 - [Readings](readings.md)
 - [Exercises](exercises.md)
+- [Creative work](creative work.md)
