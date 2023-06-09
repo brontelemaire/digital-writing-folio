@@ -63,21 +63,31 @@ Facilitate:
 
 ## Week 2:
 
-### What elements 
-- What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
-- How are those elements meaningful?
-- How are the works read differently from print literature?
-- How is electronic literature different from print literature?
-- What are the qualities of the works we might consider as qualities of electronic literature?
+### We used a few ai generators which was a sketchy dive for me going in as I’ve been watching the discourse around ai generators for the past few years as they’ve ramped up as companies are taking lower quality art that doesn’t understand itself through ai generators instead of having to pay artists who know what they’re doing but take much longer. So going in I was a bit sceptical, and I wasn’t entirely wrong, the writing that was outputted by ChatGPT was not very good and lacked soul in it and just ran itself in circles. And most importantly, it was boring. But what was fun to use, however, was jGnoetry. Not because it was good at writing poems, but because it was bad enough to be interesting. Because it didn’t understand grammar or punctuation, it then used it in strange and new ways a person wouldn’t. I put in some of my own recent writing with a little bit of Dadaist structure put in the settings, and watched it use the words I use regularly in ways I wouldn’t, which has sparked new ways to write my current side project.
 
-## Remixes
+### Some of the outputs I liked:
+### -	Continue to make it manageable self-destruction
+### -	One step closer to be immortal as a pair of life without permission
+### -	Smiling at the vulgar promises to die
+### -	You the monstrous stalk
+### -	You realised what I’d kill I wasn’t ready to
+### -	Shake gently taken whole
+### -	You despise even now the nothingness that punched though my presence
 
-### Dadaist Poem
+### Dadaist Poem Link: https://outstanding-peppermint-engine.glitch.me/
+### N+7 Link: https://shade-fresh-path.glitch.me/
 
-### N+7
 
-### Tarako Gorge Remix
 
-- What aspects of the remix are the same?
-- What aspects of the remix are different?
-- Is the remix successful (why or why not)?
+## Week 4
+### “We Walk to You” remix on glitch. 
+### It was good to see there’s tools to make eLit a lot easier like Glitch because I would have absolutely no basis to make something like this infinite story/poem. It is also becoming slightly less daunting to look at code, though most of it still scares me a little, at least the changes I care most about don’t seem entirely unintuitive.
+### Remix Link: https://acoustic-apricot-dance.glitch.me/
+
+
+
+## Week 5
+### We started using Twine as it’s much simpler than I thought it could be which is reassuring since I was already thinking of using it or a similar program for my piece. Hyperlink stories with multiple choices however are way harder to plan than I realised. It would be so easy to just keep making different choices available and end up with 50 endings by accident. It’s super humbling now to look at pieces like Depression Quest which now I realise must be extremely long when looking at all of the text and is ten times the amount of work than a regular short story. 
+### I made the template of a basic one that has two endings. A choice between two is available at the start, and the once more, and then when the third time to choose comes around, the four current story streams go into two endings, though one of each from each “half” so to say, so there’d be the illusion of more choice. 
+
+### Link: https://rad-panda-f8ea21.netlify.app/
